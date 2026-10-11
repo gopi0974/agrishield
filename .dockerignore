@@ -1,0 +1,16 @@
+.git
+.venv
+venv
+**/.env
+**/.env.*
+!**/.env.example
+**/__pycache__
+**/*.py[cod]
+**/node_modules
+frontend/dist
+backend/artifacts
+backend/data
+Datasets/*
+!Datasets/unified_crop_data before crop.csv
+Models
+*.ipynb

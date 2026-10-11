@@ -1,0 +1,11 @@
+Crop,Optimal_Temp_C,Optimal_RH_Percent,Max_Storage_Life
+Tomato,10 to 13,90 to 95,1 to 3 weeks
+Potato,4 to 10,90 to 95,5 to 10 months
+Onion,0,65 to 70,1 to 8 months
+Chilli,7 to 10,90 to 95,2 to 3 weeks
+Garlic,-1 to 0,60 to 70,6 to 9 months
+Apple,0 to 15,90 to 95,2 to 4 weeks
+Banana,0 to 15,90 to 95,2 to 4 weeks
+Cabbage,0 to 15,90 to 95,2 to 4 weeks
+Cauliflower,0 to 15,90 to 95,2 to 4 weeks
+Okra,0 to 15,90 to 95,2 to 4 weeks
